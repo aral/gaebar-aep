@@ -12,3 +12,5 @@ Gebar app-engine-patch for Django Test App
 ------------------------------------------
 
 Functional tests for Gaebar running on app-engine-patch-based Django app.
+
+IMPORTANT: Make sure you update the GAEBAR_BACKUPS_FOLDER setting in settings.py to point to the gaebar/backups folder on your local machine before running the app.

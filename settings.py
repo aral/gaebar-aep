@@ -68,7 +68,7 @@ SECRET_KEY = '1234567890'
 
 GAEBAR_LOCAL_URL = 'http://localhost:8000'
 
-GAEBAR_BACKUPS_FOLDER = '/Users/aral/projects/gaebar-gaed/gaebar/backups/'
+GAEBAR_BACKUPS_FOLDER = '/Users/aral/projects/gaebar-aep/gaebar/backups/'
 
 GAEBAR_SECRET_KEY = 'change_this_to_something_random'
 

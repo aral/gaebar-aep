@@ -1,6 +1,5 @@
 import logging
 
-from appengine_django.models import BaseModel
 from google.appengine.ext import db
 
 from app1 import consts
