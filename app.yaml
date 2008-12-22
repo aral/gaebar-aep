@@ -1,0 +1,16 @@
+﻿application: sample
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /media
+  static_dir: media
+
+# Static: Gaebar
+- url: /gaebar/static
+  static_dir: gaebar/static
+
+
+- url: /.*
+  script: common/appenginepatch/main.py
